@@ -1,0 +1,5 @@
+D:\Source\Workspaces\V30\Loader\ETL_Interface\ETL_Interface\bin\Debug\ETL_Interface.dll
+D:\Source\Workspaces\V30\Loader\ETL_Interface\ETL_Interface\bin\Debug\ETL_Interface.pdb
+D:\Source\Workspaces\V30\Loader\ETL_Interface\ETL_Interface\obj\Debug\ETL_Interface.csprojResolveAssemblyReference.cache
+D:\Source\Workspaces\V30\Loader\ETL_Interface\ETL_Interface\obj\Debug\ETL_Interface.dll
+D:\Source\Workspaces\V30\Loader\ETL_Interface\ETL_Interface\obj\Debug\ETL_Interface.pdb

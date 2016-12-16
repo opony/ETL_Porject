@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL_Loader", "ETL_Loader\ETL_Loader.csproj", "{A055C2C0-A08A-4279-8F1C-8192B43B46DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL_Interface", "..\ETL_Interface\ETL_Interface\ETL_Interface.csproj", "{D8DDFF22-9CD6-4517-9A84-70B223F8F8F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLib", "..\Common\DatabaseLib\DatabaseLib.csproj", "{F58AD669-FE15-42E3-AACE-44C69AD5B33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{0DB869C0-B5A3-4723-A084-E12FAAE49A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A055C2C0-A08A-4279-8F1C-8192B43B46DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A055C2C0-A08A-4279-8F1C-8192B43B46DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A055C2C0-A08A-4279-8F1C-8192B43B46DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A055C2C0-A08A-4279-8F1C-8192B43B46DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DDFF22-9CD6-4517-9A84-70B223F8F8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DDFF22-9CD6-4517-9A84-70B223F8F8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DDFF22-9CD6-4517-9A84-70B223F8F8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DDFF22-9CD6-4517-9A84-70B223F8F8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58AD669-FE15-42E3-AACE-44C69AD5B33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58AD669-FE15-42E3-AACE-44C69AD5B33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58AD669-FE15-42E3-AACE-44C69AD5B33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58AD669-FE15-42E3-AACE-44C69AD5B33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB869C0-B5A3-4723-A084-E12FAAE49A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB869C0-B5A3-4723-A084-E12FAAE49A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB869C0-B5A3-4723-A084-E12FAAE49A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB869C0-B5A3-4723-A084-E12FAAE49A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://sfcstfs:8080/tfs/wnc%20sfcs%20team
+		SccProjectUniqueName0 = ..\\Common\\DatabaseLib\\DatabaseLib.csproj
+		SccProjectName0 = ../Common/DatabaseLib
+		SccAuxPath0 = http://sfcstfs:8080/tfs/wnc%20sfcs%20team
+		SccLocalPath0 = ..\\Common\\DatabaseLib
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

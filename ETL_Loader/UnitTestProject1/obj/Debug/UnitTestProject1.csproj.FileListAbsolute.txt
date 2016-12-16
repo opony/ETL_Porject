@@ -1,0 +1,17 @@
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\ETL_Loader.exe
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\DatabaseLib.dll
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\ETL_Interface.dll
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\ETL_Loader.pdb
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\DatabaseLib.pdb
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\ETL_Interface.pdb
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\log4net.dll
+D:\Source\Workspaces\V30\Loader\ETL_Loader\UnitTestProject1\bin\Debug\log4net.xml
